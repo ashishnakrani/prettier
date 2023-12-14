@@ -124,7 +124,7 @@ overrides:
       - "*.html"
       - "legacy/**/*.js"
     options:
-      tabWidth: 4
+      tabWidth: 6
 ```
 
 `files` is required for each override, and may be a string or array of strings. `excludeFiles` may be optionally provided to exclude files for a given rule, and may also be a string or array of strings.
